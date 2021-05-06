@@ -1,22 +1,23 @@
 # main links links
 main:
+  - title: "Home"
+    url: /
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /articles/
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/yifei-resume.pdf
+  - title: "Resources"
+    url: /resources/
+  #- title: "Guide"
+  #  url: /markdown/
+  #- title: "Talks"
+  #  url: /talks/
+
+  #- title: "Teaching"
+  #  url: /teaching/
+
+  #- title: "Portfolio"
+  #  url: /portfolio/
+
+  #- title: "Blog Posts"
+  #  url: /year-archive/
