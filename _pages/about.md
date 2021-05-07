@@ -14,7 +14,7 @@ Education / Experience
 
 <li> 2018-present: B.Sc in Computer Science, University of Nottingham </li>
 <br>
-<li> 2020/9-present: Vision development leader of UNNC Robomaster Team <a href="https://www.robomaster.com/en-US">(Robomaster Details)</a></li>
+<li> 2020/9-present: Vision development leader of UNNC <a href="https://www.robomaster.com/en-US">Robomaster</a> Team</li>
 <li> 2020/5-2020/8: Data mining intern at UNNC-NFTZ Blockchain Laboratory</li>
 
 
