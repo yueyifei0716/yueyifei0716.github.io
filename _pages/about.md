@@ -18,7 +18,7 @@ Education / Experience
 <li> 2021-2022: B.Sc in Computer Science, University of New South Wales </li>
 <li> 2023: Exchange Student at the National University of Singapore </li>
 <br>
-<li> 2020/9-present: Vision development leader of UNNC <a href="https://www.robomaster.com/en-US">Robomaster</a> Team</li>
+<li> 2020/9-2021/2: Vision development leader of UNNC <a href="https://www.robomaster.com/en-US">Robomaster</a> Team</li>
 <li> 2020/5-2020/8: Data mining intern at UNNC-NFTZ Blockchain Laboratory</li>
 <li> 2021/6-2021/9: Research intern at NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre </li>
 <br>
