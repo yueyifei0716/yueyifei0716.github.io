@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yifei Yue"
 title_separator          : "-"
 name                     : &name "Yifei Yue"
-description              : &description "BSc. Student at UNNC"
+description              : &description "BSc. Student at the University of New South Wales"
 url                      : "//yueyifei.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yueyifei0716/yueyifei0716.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yifei Yue"
   avatar           : "profile.png"
-  bio              : "B.Sc. CS Student at University of Nottingham Ningbo China."
+  bio              : "B.Sc. CS Student at the University of New South Wales."
   location         : "Ningbo, China"
   employer         :
   # googlescholar    :
