@@ -13,17 +13,10 @@ I am a final-year undergraduate student at the [University of New South Wales (U
 Education & Experience
 ======
 
-* List item one
-  * List item one
-    * List item one
-    * List item two
-    * List item three
-    * List item four
-  * List item two
-  * List item three
-  * List item four
-* List item two
-* List item three
+* September 2021 – present, BSc in Computer Science, University of New South Wales
+* September 2018 – June 2020, BSc in Computer Science (Hons), University of Nottingham
+* January 2023 – present, Exchange, National University of Singapore
+
 * List item four
 
 Getting started
