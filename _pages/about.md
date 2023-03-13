@@ -18,14 +18,20 @@ Education & Experience
 | BSc in Computer Science (Hons), University of Nottingham    | September 2018 – June 2021   |
 | Exchange, National University of Singapore      | January 2023 – present   |
 
-* September 2021 – present, BSc in Computer Science, University of New South Wales
+| --------         | ------ | ---- |
+| Research Intern  | NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre | June 2021 – October 2021   |
+| Visual development Leader | The robot team of the University of Nottingham    | September 2019 – June 2021   |
+| Data Mining Intern | UNNC-NFTZ Blockchain Laboratory      | May 2020 – August 2020   |
+| Audit Intern | BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch    | June 2019 - July 2019   |
+
+<!-- * September 2021 – present, BSc in Computer Science, University of New South Wales
 * September 2018 – June 2021, BSc in Computer Science (Hons), University of Nottingham
 * January 2023 – present, Exchange, National University of Singapore
 
 * June 2021 – October 2021, Research Intern, NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre
 * September 2019 – June 2021, Visual development Leader, The robot team of the University of Nottingham
 * May 2020 – August 2020, Data Mining Intern, UNNC-NFTZ Blockchain Laboratory
-* June 2019 - July 2019, Audit Intern, BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch
+* June 2019 - July 2019, Audit Intern, BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch -->
 
 Research
 ======
