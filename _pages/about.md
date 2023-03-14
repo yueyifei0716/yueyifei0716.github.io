@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifei (Vincent) Yue"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -39,6 +39,6 @@ Research
 I am passionate about the fields of natural language processing, computer vision, and machine learning. In natural language processing, I am particularly interested in topic modeling, sentiment analysis, and word embedding techniques. For computer vision, I have a strong interest in image segmentation, image classification, and face and gesture recognition. My enthusiasm for these research areas stems from my desire to explore and understand the capabilities of machine intelligence in processing and interpreting complex data, as well as their potential applications in various fields.
 
 Contact
-------
+======
 
 Email : vincent{lastname}{firstname} at gmail.com, z5392319 at unsw.edu.au
