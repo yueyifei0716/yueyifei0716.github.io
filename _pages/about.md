@@ -13,29 +13,34 @@ I am currently a Full Stack Engineer at Cyber Partner AI, where I focus on integ
 Education & Experience
 ======
 
-| --------         | ------ |
+Education
+------
+| Institution | Period |
+|-------------|---------|
 | BSc in Computer Science (Hons), University of Sydney    | Jul. 2023 - Jun. 2024   |
 | BSc in Computer Science, University of New South Wales    | Sep. 2021 – May. 2023   |
-| BSc in Computer Science (Hons), University of Nottingham    | Sep. 2018 – Jun. 2021   |
 | Exchange, National University of Singapore      | Jan. 2023 – May. 2023   |
+| BSc in Computer Science (Hons), University of Nottingham    | Sep. 2018 – Jun. 2021   |
 
-| --------         | ------ | ---- |
+Professional Experience
+------
+| Position | Organization | Period |
+|----------|--------------|---------|
 | Full Stack Engineer | Cyber Partner AI Inc.   | Apr. 2024 – present   |
 | AI Algorithm Intern | Hangzhou Hikvision Digital Technology Co., Ltd.   | Jun. 2023 – Aug. 2023   |
 | Research Assistant | Stanford University  | Jun. 2023 – Aug. 2023   |
 | Front End Developer Intern  | Hangzhou Hikvision Digital Technology Co., Ltd. | Jun. 2023 – Aug. 2023   |
 | Research Intern  | NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre | Jun. 2021 – Oct. 2021   |
-| Visual development Leader | The robot team of the University of Nottingham    | Sep. 2019 – Jun. 2021   |
+| Visual Development Leader | The Robot Team of the University of Nottingham    | Sep. 2019 – Jun. 2021   |
 | Data Mining Intern | UNNC-NFTZ Blockchain Laboratory      | May. 2020 – Aug. 2020   |
 | Audit Intern | BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch    | Jun. 2019 - Jul. 2019   |
 
-
-Research
+Research Interests
 ======
-
-I am passionate about the fields of natural language processing, computer vision, and machine learning. In natural language processing, I am particularly interested in topic modeling, sentiment analysis, word embedding techniques and large language models. For computer vision, I have a strong interest in  image/video processing, medical image computing, computer vision, pattern recognition, machine learning, multimedia computing, supervised and unsupervised domain adaptation. My enthusiasm for these research areas stems from my desire to explore and understand the capabilities of machine intelligence in processing and interpreting complex data, as well as their potential applications in various fields.
+I am passionate about bringing embodied AI to life through character roleplay and personality development. My research interests primarily focus on large language models, particularly in areas such as long-term memory mechanisms, topic modeling, and character personality embedding. I have also conducted research in unsupervised domain adaptation and medical image processing. My enthusiasm stems from the vision of creating more engaging and personalized AI interactions, while ensuring these technologies can be effectively applied across different domains and real-world applications.
 
 Contact
 ======
-
-Email : vincent{lastname}{firstname} at gmail.com
+- Email: vincent{lastname}{firstname}@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [GitHub](https://github.com/yourusername)
