@@ -15,6 +15,7 @@ Education & Experience
 
 Education
 ------
+
 | Institution | Period |
 | --- | --- |
 | BSc in Computer Science (Hons), University of Sydney | Jul. 2023 - Jun. 2024 |
