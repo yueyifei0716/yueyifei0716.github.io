@@ -25,6 +25,7 @@ Education
 
 Professional Experience
 ------
+
 | Position | Organization | Period |
 | --- | --- | --- |
 | Full Stack Engineer | Cyber Partner AI Inc. | Apr. 2024 – present |
@@ -38,8 +39,10 @@ Professional Experience
 
 Research Interests
 ======
+
 I am passionate about bringing embodied AI to life through character roleplay and personality development. My research interests primarily focus on large language models, particularly in areas such as long-term memory mechanisms, topic modeling, and character personality embedding. I have also conducted research in unsupervised domain adaptation and medical image processing. My enthusiasm stems from the vision of creating more engaging and personalized AI interactions, while ensuring these technologies can be effectively applied across different domains and real-world applications.
 
 Contact
 ======
+
 - Email: vincent{lastname}{firstname}@gmail.com
