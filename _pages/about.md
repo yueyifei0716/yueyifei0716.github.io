@@ -16,24 +16,24 @@ Education & Experience
 Education
 ------
 | Institution | Period |
-|-------------|---------|
-| BSc in Computer Science (Hons), University of Sydney    | Jul. 2023 - Jun. 2024   |
-| BSc in Computer Science, University of New South Wales    | Sep. 2021 – May. 2023   |
-| Exchange, National University of Singapore      | Jan. 2023 – May. 2023   |
-| BSc in Computer Science (Hons), University of Nottingham    | Sep. 2018 – Jun. 2021   |
+| --- | --- |
+| BSc in Computer Science (Hons), University of Sydney | Jul. 2023 - Jun. 2024 |
+| BSc in Computer Science, University of New South Wales | Sep. 2021 – May. 2023 |
+| Exchange, National University of Singapore | Jan. 2023 – May. 2023 |
+| BSc in Computer Science (Hons), University of Nottingham | Sep. 2018 – Jun. 2021 |
 
 Professional Experience
 ------
 | Position | Organization | Period |
-|----------|--------------|---------|
-| Full Stack Engineer | Cyber Partner AI Inc.   | Apr. 2024 – present   |
-| AI Algorithm Intern | Hangzhou Hikvision Digital Technology Co., Ltd.   | Jun. 2023 – Aug. 2023   |
-| Research Assistant | Stanford University  | Jun. 2023 – Aug. 2023   |
-| Front End Developer Intern  | Hangzhou Hikvision Digital Technology Co., Ltd. | Jun. 2023 – Aug. 2023   |
-| Research Intern  | NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre | Jun. 2021 – Oct. 2021   |
-| Visual Development Leader | The Robot Team of the University of Nottingham    | Sep. 2019 – Jun. 2021   |
-| Data Mining Intern | UNNC-NFTZ Blockchain Laboratory      | May. 2020 – Aug. 2020   |
-| Audit Intern | BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch    | Jun. 2019 - Jul. 2019   |
+| --- | --- | --- |
+| Full Stack Engineer | Cyber Partner AI Inc. | Apr. 2024 – present |
+| AI Algorithm Intern | Hangzhou Hikvision Digital Technology Co., Ltd. | Jun. 2023 – Aug. 2023 |
+| Research Assistant | Stanford University | Jun. 2023 – Aug. 2023 |
+| Front End Developer Intern | Hangzhou Hikvision Digital Technology Co., Ltd. | Jun. 2023 – Aug. 2023 |
+| Research Intern | NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre | Jun. 2021 – Oct. 2021 |
+| Visual Development Leader | The Robot Team of the University of Nottingham | Sep. 2019 – Jun. 2021 |
+| Data Mining Intern | UNNC-NFTZ Blockchain Laboratory | May. 2020 – Aug. 2020 |
+| Audit Intern | BDO China-SHU LUN PAN Certified Public Accountants LLP, Ningbo Branch | Jun. 2019 - Jul. 2019 |
 
 Research Interests
 ======
@@ -42,5 +42,3 @@ I am passionate about bringing embodied AI to life through character roleplay an
 Contact
 ======
 - Email: vincent{lastname}{firstname}@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
